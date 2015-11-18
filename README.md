@@ -1,0 +1,1 @@
+An example Java application that will programmatically submit an Apache Storm topology to a Storm cluster. Based on the example from [http://nishutayaltech.blogspot.in/2014/06/submitting-topology-to-remote-storm.html](http://nishutayaltech.blogspot.in/2014/06/submitting-topology-to-remote-storm.html).
