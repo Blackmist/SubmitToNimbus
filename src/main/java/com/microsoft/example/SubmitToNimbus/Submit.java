@@ -21,7 +21,7 @@ public class Submit
     	//Get parameters for the jar file, topology name, and target Nimbus host node
     	if(args.length < 3) {
     		System.err.println("Invalid arguments. Usage:");
-    		System.err.println("submit stormtopology.jar topologyname nimbusnode");
+    		System.err.println("java -jar SubmitToNimbus.jar <stormtopology-jar-file> <topology-name> <nimbusnode>");
     		System.exit(1);
     	}
     	String topologyFile = args[0];
