@@ -1,4 +1,4 @@
-package com.microsoft.example.SubmitToNimbus;
+package com.microsoft.example;
 
 import java.util.Map;
 
